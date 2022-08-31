@@ -1,11 +1,21 @@
 👋 Hi, I’m Lucas Sansberro, a 24 years old front-end developer who lives in Argentina. 
 
+💪 Skills:
+- HTML 
+- CSS (SASS)
+- JavaScript
+- React
+- Redux
+- Node
+- Express
+- Mongo
+- MySQL
+
 👀 I’m interested in technology, books and foreign languages.
 
-🌱 I’m currently learning  front-end development technologies, such as JavaScript, React, MongoDB and Node. I seek to improve as much as i can in this field to fulfill my objective to land a job in an IT company.
 ✍️ Doing a B.A. in History
 
-Languages:
+🌎 Languages:
 - Native Spanish 🇪🇸 🇦🇷 
 - B2 English 🇬🇧 🇺🇸
 - B2 French 🇫🇷
