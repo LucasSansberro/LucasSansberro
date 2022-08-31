@@ -14,6 +14,7 @@
 - MySQL
 
 ✍️ Doing a B.A. in History
+
 🤓 Future Computer Sciences student
 
 🌎 Languages:
