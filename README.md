@@ -6,12 +6,15 @@
 - JavaScript
 - React
 - Redux
+
+📚 Learning :
 - Node
 - Express
 - Mongo
 - MySQL
 
 ✍️ Doing a B.A. in History
+🤓 Future Computer Sciences student
 
 🌎 Languages:
 - Native Spanish 🇪🇸 🇦🇷 
