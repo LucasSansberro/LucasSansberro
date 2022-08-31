@@ -25,4 +25,4 @@
 
 📫 How to reach me: 
 - [My LinkedIn](https://www.linkedin.com/in/lucas-sansberro/)
-- [My Goodreads. Check it if you want to know my taste in books!](https://www.goodreads.com/user/show/33428507-masachus)
+- [My Goodreads.](https://www.goodreads.com/user/show/33428507-masachus) Check it if you want to know my taste in books!
