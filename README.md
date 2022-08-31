@@ -1,4 +1,4 @@
-👋 Hi, I’m @LucasSansberro, a 24 years old front-end developer who lives in Argentina. 
+👋 Hi, I’m Lucas Sansberro, a 24 years old front-end developer who lives in Argentina. 
 
 👀 I’m interested in technology, books and foreign languages.
 
