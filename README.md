@@ -11,8 +11,6 @@
 - Mongo
 - MySQL
 
-👀 I’m interested in technology, books and foreign languages.
-
 ✍️ Doing a B.A. in History
 
 🌎 Languages:
