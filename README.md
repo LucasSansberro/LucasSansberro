@@ -4,14 +4,13 @@
 - HTML 
 - CSS (SASS)
 - JavaScript
-- React
-- Redux
-
-📚 Learning :
+- React & Redux
 - Node
 - Express
-- Mongo
+- MongoDB
 - MySQL
+- Java Spring Boot
+- Angular
 
 ✍️ Bachelor of Computer Science Student
 
