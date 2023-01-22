@@ -13,7 +13,7 @@
 - Mongo
 - MySQL
 
-✍️ Doing a B.A. in History
+✍️ C.S. Student
 
 🤓 Future Computer Sciences student
 
