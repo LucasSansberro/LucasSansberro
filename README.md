@@ -13,7 +13,7 @@
 - Mongo
 - MySQL
 
-✍️ C.S. Student
+✍️ Bachelor of Computer Science Student
 
 🤓 Future Computer Sciences student
 
