@@ -12,9 +12,7 @@
 - Java Spring Boot
 - Angular
 
-✍️ Bachelor of Computer Science Student
-
-🤓 Future Computer Sciences student
+✍️ C.S. Student
 
 🌎 Languages:
 - Native Spanish 🇪🇸 🇦🇷 
