@@ -1,4 +1,5 @@
-👋 Hi, I’m Lucas Sansberro, a 24 years old front-end developer who lives in Argentina.  Working as full stack dev (Java + Angular) in ASJ Servicios since january 2023
+👋 Hi, I’m Lucas Sansberro, a 24 years old front-end developer who lives in Argentina.
+💪 Working as full stack dev (Java + Angular) in ASJ Servicios since january 2023
 
 💪 Skills:
 - HTML 
