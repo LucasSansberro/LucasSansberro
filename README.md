@@ -1,20 +1,16 @@
-👋 Hi, I’m Lucas Sansberro, a 24 years old front-end developer who lives in Argentina.
+👋 Hi, I’m Lucas Sansberro, a 24 years old front-end developer and C.S. Student. I'm currently living in Argentina.
 
 💪 Working as a full stack dev (Java + Angular) in ASJ Servicios since january 2023.
 
 💪 Skills:
-- HTML 
-- CSS (SASS)
+- HTML & CSS
 - JavaScript
-- React & Redux
+- React
 - Node
-- Express
 - MongoDB
 - MySQL
-- Java Spring Boot
+- Java & Spring Boot
 - Angular
-
-✍️ C.S. Student
 
 🌎 Languages:
 - Native Spanish 🇪🇸 🇦🇷 
@@ -27,25 +23,17 @@
   * A book workshop landing page. Made with HTML, CSS and JavaScript. It includes the use of libraries and API consumption
   * Live site: [Book Binders](https://bookbinders.netlify.app/index.html) 🔗
   * GitHub repo: [Click Here](https://github.com/LucasSansberro/book-workshop-sansberro) 🔗
-* #### ***MyBooks***:
-  * A bookshop E-Commerce. Made with React.js and Firebase. It includes useState, useEffect, useContext, React-router and firestore
-  * Live site: [MyBooks](https://lucassansberro-mybooks.netlify.app/) 🔗
-  * GitHub repo: [Click Here](https://github.com/LucasSansberro/E-Commerce-React-JS---Coderhouse) 🔗
+* #### ***Librería San Juan***:
+  * A bookshop E-Commerce. Made with Java Spring Boot and Angular.
+  * Frontend repo: [Click here](https://github.com/LucasSansberro/LibreriaSanJuan-Angular) 🔗
+  * Backend repo: [Click Here](https://github.com/LucasSansberro/libreriaSanJuan-springBoot) 🔗
+* #### ***LectuBot***:
+  * My current personal project. An online application for my book-club, Lectores Argentinos. Made with Angular and Node. Aiming to build a Discord Bot after the frontend is finished
+  * Frontend repo: [Click here](https://github.com/LucasSansberro/Lectubot-Frontend) 🔗
+  * Backend repo: [Click Here](https://github.com/LucasSansberro/Lectubot-Backend) 🔗  
 * #### ***El Almacén***:
-  * Fullstack E-Commerce. Made with Node.js, Express and the FileSystem module.
-  * GitHub repo: [Click Here](https://github.com/LucasSansberro/Fullstack-ECommerce-Node-Express) 🔗
-* #### ***Food order app***:
-  * A little practice page made with React.js for the eleventh module of the [Udemy React course by Maximilian Schwarzmüller](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
-  * Live site: [ReactMeals](https://lucassansberro-reactmeals.netlify.app/) 🔗
-  * GitHub repo: [Click Here](https://github.com/LucasSansberro/Food-order) 🔗
-* #### ***Expense Tracker app***:
-  * Project made with React.js following the [Udemy React course by Maximilian Schwarzmüller](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
-  * Live site: [Expense Tracker](https://lucassansberro-expense-tracker.netlify.app/) 🔗
-  * GitHub repo: [Click Here](https://github.com/LucasSansberro/Expense-Tracker) 🔗
-* #### ***User Creator***:
-  * A little practice page made with React.js for the eighth module of the [Udemy React course by Maximilian Schwarzmüller](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
-  * Live site: [User creator](https://lucassansberro-user-creator.netlify.app/) 🔗
-  * GitHub repo: [Click Here](https://github.com/LucasSansberro/User-creator) 🔗
+  * Fullstack E-Commerce. Made with Node.js, Express, Handlebars and MongoDB.
+  * GitHub repo: [Click Here](https://github.com/LucasSansberro/Ejercicios-Backend-Coderhouse) 🔗
 
 
 📫 How to reach me: 
